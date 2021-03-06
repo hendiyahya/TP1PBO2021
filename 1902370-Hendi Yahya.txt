@@ -1,0 +1,15 @@
+Saya Hendi Yahya mengerjakan TP1 dalam mata kuliah DPBO untuk keberkahanya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin.
+
+
+
+Kesulitan membuat program ini adalah cara mengimplementasikan fitur cari dan sistem login. Kesulitan lain yang saya hadapi adalah instalasi Net Framework 4.6.1 dan 4.7 pada Visual Studio yang mengharuskan Update Windows ke versi 1511 membutuhkan kuota yang besar sehingga banyak sekali waktu yang saya habiskan untuk ke Telkom Wifi Corner.
+
+Ilmu baru yang saya dapatkan dari membuat program ini yaitu
+- Menjadi lebih memahasi istilah event
+- Menjadi pahan cara mengambil nilai dari sebuah komponen
+
+Fitur yang sudah dibuat :
+- Home
+- Login
+- Cari
+- Katalog
